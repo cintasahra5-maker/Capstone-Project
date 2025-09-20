@@ -10,6 +10,10 @@ Proyek ini bertujuan untuk mengatasi tantangan tersebut dengan memanfaatkan *Lar
 Dengan pendekatan ini, tim produk dan bisnis dapat dengan mudah memahami titik masalah utama yang dialami pelanggan dan mengambil tindakan perbaikan yang lebih tepat sasaran.
 
 ---
+### **Dataset Link** 
+Link Dataset: https://www.kaggle.com/datasets/farhan999/tokopedia-product-reviews?resource=download 
+
+---
 
 ### **Insight & Findings (Temuan Utama)**
 Berdasarkan analisis terhadap 100 sampel ulasan negatif (rating 1 & 2), kami menemukan beberapa pola keluhan yang dominan:
